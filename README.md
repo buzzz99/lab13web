@@ -296,7 +296,7 @@ alamat: http://localhost:8080/contact
         PRIMARY KEY(id)
     );
     ```
-![img27](assets/img/12.1.PNG)
+![img27](https://github.com/buzzz99/lab13web/blob/main/12.1.PNG)
 <br>
 
 ## 2. Konfigurasi Koneksi Database
@@ -311,16 +311,16 @@ alamat: http://localhost:8080/contact
 
 ## 4. Membuat Controller 
 - Terletak di folder `app/Controllers`, buat file `Artikel.php`.
-![img27](assets/img/12.4.PNG)
+![img27](https://github.com/buzzz99/lab13web/blob/main/12.4.PNG)
 <br>
 
 ## 5. Membuat View pada artikel 
 - Terletak di folder `app/Views/artikel`, buat file `index.php`.
-![img27](assets/img/12.5.PNG)
+![img27](https://github.com/buzzz99/lab13web/blob/main/12.5.PNG)
 <br>
 
 - Buka browser, ketik http://localhost:8080/artikel 
-![img32](assets/img/12.6.PNG)
+![img32](https://github.com/buzzz99/lab13web/blob/main/12.6.PNG)
 <br>
 
 - Masukkan data ke tabel artikel,
@@ -336,11 +336,11 @@ alamat: http://localhost:8080/contact
     era 45 sebelum masehi, hingga bisa dipastikan usianya telah mencapai lebih 
     dari 2000 tahun.', 'artikel-kedua');
     ``` 
-![img33](assets/img/12.7.PNG)
+![img33](https://github.com/buzzz99/lab13web/blob/main/12.7.PNG)
 <br>
 
 - Refresh kembali browser.
-![img34](assets/img/12.8.PNG)
+![img34](https://github.com/buzzz99/lab13web/blob/main/12.8.PNG)
 <br>
 
 ## 6. Membuat Tampilan detail Artikel
